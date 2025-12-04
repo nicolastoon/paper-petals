@@ -2,4 +2,4 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
 // https://vite.dev/config/
-export default defineConfig({ base: "/flowering/", plugins: [react()] });
+export default defineConfig({ base: "/paper-petals/", plugins: [react()] });

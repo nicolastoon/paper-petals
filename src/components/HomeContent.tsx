@@ -6,8 +6,8 @@ const banners = [
     title: "thoughtfully crafted",
     desc: "the beautiful colors and flowers can be seen from afar, but every precise fold, crease, and bend make it elaborate and genuine",
     buttonText: "view gallery",
-    buttonLink: "/flowering/gallery/",
-    imgLink: "/flowering/img/flower-banner.png",
+    buttonLink: "./gallery/",
+    imgLink: "./img/flower-banner.png",
     mobileImg: ""
   },
   {
@@ -15,9 +15,9 @@ const banners = [
     title: "made to last forever",
     desc: "literally. no withering, no molding, no seasonal changes. just don’t water them.",
     buttonText: "commission now",
-    buttonLink: "/flowering/commission/",
-    imgLink: "/flowering/img/recollections-banner.png",
-    mobileImg: "/flowering/img/recollections-banner-2.png"
+    buttonLink: "./commission/",
+    imgLink: "./img/recollections-banner.png",
+    mobileImg: "./img/recollections-banner-2.png"
   },
 ];
 

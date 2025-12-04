@@ -1,38 +1,38 @@
 [
   {
     "id": "rouge",
-    "src": "/flowering/img/R Simple.jpg",
-    "hover": "/flowering/img/R Shot.jpg",
+    "src": "./img/R Simple.jpg",
+    "hover": "./img/R Shot.jpg",
     "desc": "A warm bouquet signifying that love is in the air, created using traditional roses and filled with matching tulips and lilies."
   },
   {
     "id": "azure",
-    "src": "/flowering/img/B Simple.jpg",
-    "hover": "/flowering/img/B Shot.jpg",
+    "src": "./img/B Simple.jpg",
+    "hover": "./img/B Shot.jpg",
     "desc": "A decoration encompassing the elusive colors of Mother Nature, consisting of hydrangeas, violets, and balloon flowers, filled with sprigs of lavender, presenting a calming aesthetic of cool tones."
   },
   {
     "id": "blossom",
-    "src": "/flowering/img/P Simple.jpg",
-    "hover": "/flowering/img/P Shot.jpg",
+    "src": "./img/P Simple.jpg",
+    "hover": "./img/P Shot.jpg",
     "desc": "A charming combination of plum blossom, bell flowers, lilies, and calla lilies, inspired by the perfect moment of a spring bloom."
   },
   {
     "id": "aurora",
-    "src": "/flowering/img/Multi Simple.jpg",
-    "hover": "/flowering/img/Multi Shot.jpg",
+    "src": "./img/Multi Simple.jpg",
+    "hover": "./img/Multi Shot.jpg",
     "desc": "A bouquet infused with the essence of the northern and southern lights, from the pink roses to the yellow pompons, with blue bellflowers and white tulips between."
   },
   {
     "id": "silk",
-    "src": "/flowering/img/W Simple.jpg",
-    "hover": "/flowering/img/W Shot.jpg",
+    "src": "./img/W Simple.jpg",
+    "hover": "./img/W Shot.jpg",
     "desc": "A minimalistic arrangement of moonflowers, lilies, and tulips, capturing a moment of elegance, yet simplicity."
   },
   {
     "id": "radiance",
-    "src": "/flowering/img/Y Simple.jpg",
-    "hover": "/flowering/img/Y Shot.jpg",
+    "src": "./img/Y Simple.jpg",
+    "hover": "./img/Y Shot.jpg",
     "desc": "A bright decorational piece that is sure to brighten up any environment, showcasing tulips, daffodils, marigolds, and poppies that complement each other perfectly."
   }
 ]
