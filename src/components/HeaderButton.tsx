@@ -1,5 +1,5 @@
 import type { MouseEventHandler } from "react";
-import { hover, unhover } from "../hover.ts";
+import { hover, unhover } from "../scripts/hover.ts";
 
 type HeaderButtonProp = {
   page: string;
@@ -17,7 +17,7 @@ export default function HeaderButton({ page, onClick }: HeaderButtonProp) {
     >
       <div className="button">
         <span className="btn-text" id={`${page}-link-head`}>
-          {page.startsWith('mobile-') ? page.substring(7) :page}
+          {page.startsWith("mobile-") ? page.substring(7) : page}
         </span>
         <span className="btn-text" id={`${page}-link-tail`}>
           {page}

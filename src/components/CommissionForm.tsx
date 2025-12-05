@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import { hover, unhover } from "../hover.ts";
-import { submitForm } from "../submit.ts";
+import { hover, unhover } from "../scripts/hover.ts";
+import { submitForm } from "../scripts/submit.ts";
 import { Dot } from "lucide-react";
 
 export default function CommissionForm() {

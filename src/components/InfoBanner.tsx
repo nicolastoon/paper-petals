@@ -1,4 +1,4 @@
-import { hover, unhover } from "../hover.ts";
+import { hover, unhover } from "../scripts/hover.ts";
 import Divider from "./Divider.tsx";
 
 type BannerInfo = {
